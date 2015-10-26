@@ -1,0 +1,57 @@
+/* {
+  padding: 0px;
+  margin: 0px;
+}*/
+
+.btn {
+  text-align: justify;
+  color: white;
+}
+
+header {
+  text-align: center;
+  color: lightgrey;
+  font-size: 40px;
+  font-family: 'Raleway', sans-serif;
+  padding-bottom: 40px;
+}
+
+article {
+  text-align: center;
+  height: 100px;
+}
+
+a {
+  color: lightblue;
+  text-decoration: none;
+
+}
+
+h2 {
+background-color: lightgrey;
+
+}
+footer {
+  margin-top: 300px;
+  text-align: center;
+  background-color: lightgrey;
+  color: white;
+  height: 40px;
+  padding-top: 10px;
+  font-size: 30px;
+}
+
+p {
+  color: lightgrey;
+  35px;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+}
+ img {
+   float: left;
+  margin-right: 20px;
+ }
+body {
+  clear: both;
+}
